@@ -1,3 +1,25 @@
+```
+                             \\\\\\\
+                            \\\\\\\\\\\\
+                          \\\\\\\\\\\\\\\
+  -----------,-|           |C>   // )\\\\|
+           ,','|          /    || ,'/////|
+---------,','  |         (,    ||   /////
+         ||    |          \\  ||||//''''|
+         ||    |           |||||||     _|
+         ||    |______      `````\____/ \
+         ||    |     ,|         _/_____/ \
+         ||  ,'    ,' |        /          |
+         ||,'    ,'   |       |         \  |
+_________|/    ,'     |      /           | |
+_____________,'      ,',_____|      |    | |
+             |     ,','      |      |    | |
+             |   ,','    ____|_____/    /  |
+             | ,','  __/ |             /   |
+_____________|','   ///_/-------------/   |
+              |===========,'
+```
+
 ### Hi there 👋
 # 💫 About Me:
 Hi! I'm a student of Computer Systems Engineering passionate about technology <br>and software development. Currently, I am working on my personal projects and <br>collaborating with other developers to improve my skills and knowledge in this field.<br><br>I consider myself a proactive and committed person who enjoys working in teams <br>and learning from others. I like to stay updated on the latest trends and technologies <br>in the world of software development, so I am constantly learning and improving.<br><br>On my GitHub profile, you can find some of my projects and contributions to other <br>open-source projects. Feel free to contact me if you have any questions or want to <br>collaborate on a project. Thank you for visiting my profile!<br><br><br>Translation:<br><br><br>¡Hola! Soy un estudiante de la carrera de Ingeniería en Sistemas Computacionales<br>apasionado por la tecnología y el desarrollo de software. Actualmente, me encuentro <br>trabajando en mis proyectos personales y colaborando con otros desarrolladores para <br>mejorar mis habilidades y conocimientos en este campo.<br><br>Me considero una persona proactiva y comprometida, que disfruta trabajar en equipo <br>y aprender de los demás. Me gusta mantenerme actualizado en las últimas tendencias <br>y tecnologías en el mundo del desarrollo de software, por lo que estoy en constante aprendizaje <br>y mejora continua.<br><br>En mi perfil de GitHub podrás encontrar algunos de mis proyectos y contribuciones a otros<br> proyectos de código abierto. Siéntete libre de contactarme si tienes alguna pregunta o quieres <br>colaborar en algún proyecto. ¡Gracias por visitar mi perfil!<br><br>
